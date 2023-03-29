@@ -10,23 +10,32 @@
     
     <h1> Três artistas ou bandas favoritas: </h1>
     <ol>
-    <li> <a href="https://arcticmonkeys.com/" target="_blank"> Arctic Monkeys </a> </li>
-    <li> <a href="https://www.deftones.com/" target="_blank"> Deftones </a> </li>
-    <li> <a href="https://systemofadown.com/" target="_blank"> System of a Down </a> </li>
+    <li> <a href="https://arcticmonkeys.com/" target="_blank"> Arctic Monkeys: </a>  </li>
+    <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/08/arctic-monkeys-e1661342211280.jpg?w=1200&h=675&crop=1" alt="img" height="240"width="300"/>
+    <li> <a href="https://www.deftones.com/" target="_blank"> Deftones: </a> </li>
+    <img src="https://www.loudmagazine.net/wp-content/uploads/2019/07/Deftones-Frank-Maddocks.jpg" alt="img" height="240"width="300"/>
+    <li> <a href="https://systemofadown.com/" target="_blank"> System of a Down: </a> </li>
+    <img src="https://siteofadown.com/noticias/wp-content/uploads/2023/01/SOAD.jph_-800x533.webp" alt="img" height="240"width="300"/>
     </ol>
 
     <h1> Três filmes ou series favoritas: </h1>
     <ol>
-    <li> <a href="https://thelastofus.com.br/" target="_blank"> The Last Of Us </a> </li>
-    <li> <a href="https://peakyblinders.tv/" target="_blank"> Peaky Blinders </a> </li>
-    <li> <a href="https://dark.netflix.io/pt" target="_blank"> DARK </a> </li>
+    <li> <a href="https://thelastofus.com.br/" target="_blank"> The Last Of Us: </a> </li>
+    <img src="https://viciados.net/wp-content/uploads/2023/01/The-Last-Of-Us-HBO-Max-Serie-2023.webp" alt="img" height="240"width="300"/>
+    <li> <a href="https://peakyblinders.tv/" target="_blank"> Peaky Blinders: </a> </li>
+    <img src="https://www.revistanerd.com.br/wp-content/uploads/2021/02/Peaky-Blinders-serie-Netflix.jpg" alt="img" height="240"width="300"/>
+    <li> <a href="https://dark.netflix.io/pt" target="_blank"> DARK: </a> </li>
+    <img src="https://cdn.culturagenial.com/imagens/1-subb00obswa0b0qpojieww-cke.jpg" alt="img" height="240"width="300"/>
     </ol>
 
     <h1> Três jogos favoritos: </h1>
     <ol>
-    <li> <a href="https://www.playstation.com/pt-br/games/the-last-of-us-part-ii/" target="_blank"> The Last Of Us - Part II </a> </li>
-    <li> <a href="https://lifeisstrange.square-enix-games.com/pt-br/games/life-is-strange-arcadia-bay-collection/" target="_blank"> Life Is Strange - Arcadia Bay Collection </a> </li>
-    <li> <a href="https://ordemparanormal.com.br/" target="_blank"> Ordem Paranormal RPG </a> </li>
+    <li> <a href="https://www.playstation.com/pt-br/games/the-last-of-us-part-ii/" target="_blank"> The Last Of Us - Part II: </a> </li>
+    <img src="https://i.ytimg.com/vi/eOiUtRF8k28/maxresdefault.jpg" alt="img" height="240"width="300"/>
+    <li> <a href="https://lifeisstrange.square-enix-games.com/pt-br/games/life-is-strange-arcadia-bay-collection/" target="_blank"> Life Is Strange - Arcadia Bay Collection: </a> </li>
+    <img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/l/ife-is-strange-arcadia-bay-collection-switch/hero" alt="img" height="240"width="300"/>
+    <li> <a href="https://ordemparanormal.com.br/" target="_blank"> Ordem Paranormal RPG: </a> </li>
+    <img src="https://img.quizur.com/f/img62fec66e0038a7.75689985.png?lastEdited=1660864117" alt="img" height="240"width="300"/>
     </ol>
 
 </body>
