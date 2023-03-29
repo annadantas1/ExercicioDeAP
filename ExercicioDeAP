@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Coisas Favoritas </title>
+</head>
+<body>
+    
+    <h1> Três artistas ou bandas favoritas: </h1>
+    <ol>
+    <li> <a href="https://arcticmonkeys.com/" target="_blank"> Arctic Monkeys </a> </li>
+    <li> <a href="https://www.deftones.com/" target="_blank"> Deftones </a> </li>
+    <li> <a href="https://systemofadown.com/" target="_blank"> System of a Down </a> </li>
+    </ol>
+
+    <h1> Três filmes ou series favoritas: </h1>
+    <ol>
+    <li> <a href="https://thelastofus.com.br/" target="_blank"> The Last Of Us </a> </li>
+    <li> <a href="https://peakyblinders.tv/" target="_blank"> Peaky Blinders </a> </li>
+    <li> <a href="https://dark.netflix.io/pt" target="_blank"> DARK </a> </li>
+    </ol>
+
+    <h1> Três jogos favoritos: </h1>
+    <ol>
+    <li> <a href="https://www.playstation.com/pt-br/games/the-last-of-us-part-ii/" target="_blank"> The Last Of Us - Part II </a> </li>
+    <li> <a href="https://lifeisstrange.square-enix-games.com/pt-br/games/life-is-strange-arcadia-bay-collection/" target="_blank"> Life Is Strange - Arcadia Bay Collection </a> </li>
+    <li> <a href="https://ordemparanormal.com.br/" target="_blank"> Ordem Paranormal RPG </a> </li>
+    </ol>
+
+</body>
+</html>
